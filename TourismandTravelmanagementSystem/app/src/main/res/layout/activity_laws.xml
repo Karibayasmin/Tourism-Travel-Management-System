@@ -1,0 +1,108 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/lawww">
+
+        <TextView
+            android:text="Tourist Arrivals and entry regulation\n\n
+VISAS AND ENTRY REQUIREMENTS All foreign visitors to Bangladesh require a visa. Tourist visas are the easiest to obtain. Depending on the office you're dealing with, they can be issued for periods of up to two months (Australians can get six months), and whatever the length of your stay it is suggested that you apply for the maximum amount of time permitted, or at least specify a date. Most consular offices will request a letter of invitation along with the visa; this could be a letter from the tour operator or the contact that you may be visiting.
+In case of business visa, they can be issued for periods up to six months, and require a letter introducing your company along with a letter from your proposed business partner stating the purpose of your visit.
+Foreign tourist arrivals in Bangladesh have been showing an upward trend in the recent years. Total tourist arrival was more than two hundred thousand in 2001. Statistics of the last five years are presented below:\n\n
+Year\t	Tourist Arrivals\t	Change %\n
+1997\t	182420\t	         9.97\n
+1998\t	171961\t	-        5.73\n
+1999\t	172781\t   	         0.48\n
+2000\t	199211\t	         15.30\n
+2001\t	207199\t	         4.01\n
+\nSo ,to measure the policy performance of tourism the financial performance could be a suitable unit .That is why the financial performance is illustrated below.
+Financial Performance:\n\n
+NTO has been a self-financed profitable organization since 1983-84 Financial year. The table below shows the financial performance for the last ten financial years:\n
+Year\t	Total Income\t	Total Expenditure\t	Taka in lakh\n
+Pretax Profit/Loss\n
+\n1990-1991\t    5079.70\t	   4852.92\t         	226.78\n
+\n1991-1992\t    4254.31\t	   3970.49\t	        283.82\n
+\n1992-1993\t    4673.83\t	   4289.36\t	        384.47\n
+\n1993-1994\t    4385.17\t	   4005.01\t	        380.16\n
+\n1994-1995\t    4859.37\t	   4378.21\t	        481.16\n
+\n1995-1996\t    2455.51\t	   2218.84\t	        236.67\n
+\n1996-1997\t    3768.76\t	   3538.49\t	        230.27\n
+\n1997-1998\t    4541.87\t	   4304.26\t	        237.61\n
+\n1998-1999\t    3776.49\t	   3592.59\t	        183.90\n
+\n1999-2000\t    3829.00\t	   3528.97\t	        300.03\n
+\n2000-2001\t    3388.26\t	   3187.14\t	       201.12\n
+                                \n(Source: bangladesh porjoton corporation home page)\n
+The statistic shows that from 1991-2001 the income from tourism industry did not increase rather it decrease by 5%.SO government should need to reorganized the national policy for tourism.By the end of 2008 BTB(bangladesh tourism board) proposed a master plan which later implemented but could work.So changing the tourism act is needed.
+Formation of new TOURISM ACT:\n\n
+Finally,The authorities of Bangladesh Tourism Board (BTB) are likely to submit the draft 'Bangladesh Tourism Act 2012' to the ministry concerned by next month, officials said.
+'We are working on it. We hope to submit the draft Act to the Ministry of Civil Aviation and Tourism (MoCAT) by February after consultation with the stakeholders,' Chief Executive Officer (CEO) of BTB Alim Uddin Ahmed told the FE Sunday.
+        The CEO of BTB said at present the country has a number of Acts to deal with tourism. These are: Bangladesh Tourism Protected Area and Exclusive Tourist Zone Act 2010, Bangladesh Tourism Board Act 2010, Bangladesh Hotel and Restaurant Ordinance and Bangladesh Travel Agencies Ordinance.He also said the country has no policy to regulate the tour operators and rent-a-car businesses to provide best services to the tourists. Bangladesh Travel Agencies Ordinance 1976 will also be made up to date in the proposed Act. He said the proposed Act would have separate chapters on Bangladesh Tourism Protected Area and Exclusive Tourist Zone Act 2010, Bangladesh Tourism Board Act 2010, Bangladesh Hotel and Restaurant Ordinance, Bangladesh Travel Agencies Ordinance, Tour Operators, Tourist Guides, Tourism Training Centres and Hotel and Restaurant Ordinance. 'The proposed tourism Act 2012 will incorporate all the existing Acts under one umbrella that can help gear up the tourism sector of the country,' he added. Mr Alim Uddin said the MoCAT, after getting the draft on the proposed tourism Act from BTB, would put it on its website to receive suggestions from the stakeholders.(The financial express 23 january 2012).\n\n
+
+        So, a hint of hope is coming for the tourism industry of Bangladesh which would be manipulated by the reorganization of national tourism act. Hopefully, A new era would come to the whole industry which will lead a huge earning form national and international tourist.\n
+        "
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            android:typeface="serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lawyer Abdul Awal Talukdar\n\n"
+                android:layout_weight="1"
+                android:textStyle="italic"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/AbdulAwal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Call 01711004897"
+                android:background="#D7CCC8"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lawyer Abdul Alim Sarkar\n\n"
+                android:textStyle="italic"
+                android:layout_weight="1"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/AbdulAlim"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Call 01819404437 "
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

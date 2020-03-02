@@ -1,0 +1,65 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#558B2F">
+
+        <ImageView
+            android:src="@drawable/sundarbanbig"
+            android:id="@+id/sundarban"
+            android:scaleType="centerCrop"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    <TextView
+        android:text="The Sundarbans is the largest mangrove forest in the world. Its freshwater rivers merge with the salt water from the Bay of Bengal. \n\n
+Sundarban’s Popular Tourist Spots : \n\n
+1. Sundarban National Park\n\n
+Sundarban National park is one of the heritage sites in sundarban. Where the land meets to the sea at the southern tip of West Bengal lies the Indian Sunderbans, a area of impenetrable mangrove forest of great size and bio-diversity. A UNESCO World Heritage Site, the Sunderbans is a vast area covering 4264 square km in India alone. The Indian Sunderbans forms the largest Tiger Reserve and National Park in India. A paradise for birdwatchers, the list includes such rarities as the Masked Fin foot, Mangrove Pitta and the Mangrove Whistler. \n\n
+The Sunderbans are a part of the world’s largest delta formed by the mighty rivers Ganges, Brahmaputra and Meghna. Situated on the lower end of the Genetic West Bengal, it is also the world’s largest estuarine forest. The Sunderbans is criss-crossed by hundreds of creeks and tributaries. It is one of the most attractive and alluring places remaining on earth, a truly undiscovered paradise for anyone. Sundarban National park is one of the popular visiting place for the visitors. \n\n
+
+
+
+
+2. Kotka Beach\n\n
+Bangladesh is a wonderful Country in the world. Bangladesh has many tourist spot. All spot are very attractive and well-known. Sundarban is one of them. It is more beautiful place for the Tourist. The largest mangrove forest in the World (140,000 ha). The World famous Royal Bengal Tiger’s homeland and about 400 tigers live in sundarban. About 30,000 wonderful spotted deer live in sundarban. There are many Tourist Spot in Sundarban. Katka is one of Heritage sites in Sunderban. Katka a base for safaris, and well spot to see tigers and for bird-watching. Katka is well known for many rare and majestic wild animals. At Katka, one can see many precious wild animals right from tigers to deer and also varieties of birds and many kinds of monkeys. Here one can hear the natures’ music mixed with the wild fowls in the mornings and evenings. \n\n
+For those interested in wildlife trekking, the vast expanse of grassy meadows running from Katka to Kachikhali (Tiger Point) is an ideal route. Don’t miss this place if you are an adventurous tourist. \n\n
+
+3. Karamjol\n\n
+Karmajal is one of the wonderful visiting places in sundarban. To appreciate and to view the most precious species of Bangladesh’s wildlife, thousands of visitors make their way to Karamjol, a ranger station deep in the forest that also serves as a deer-breeding center. Bangladesh has some exquisite wildlife species that are unique to the country, and Karamjol is one of the gateways to the majestic wildlife sanctuary, Sundarban. \n\n
+Visitors who are interested in catching a glimpse of the breathtaking wildlife of Bangladesh at Karamjol and Sundarban must first gain permission from the Forest Officer before entering the forest, and vaccines against Cholera must be taken before leaving for Karamjol. Other recommended items for the trip include dressing according to the tropical climate, comfortable walking shoes or boots with rubber soles, sufficient drinking water, insect repellent, a medical kit, anti-diarrhea medication and anit-malarial medication is also suggested. \n\n
+From Karamjol, guided tours of the Sundarban Wildlife Sanctuary can be arranged. In the year 1966, the 38 500 square kilometers of Sundarban was declared a wildlife sanctuary and, therefore, hunting in this area is strictly prohibited and illegal. The preservation and conservation of rare and endangered species, such as the Royal Bengal Tigers, are the primary concern of this national park. Sundarban is proud of the fact that they now have an estimated four hundred Royal Bengal Tigers that live in peace within the sanctuary and the spotted deer population has risen to approximately thirty thousand individuals. \n\n
+Visitors will be able to feast their eyes on a vast range of mammal, insects, bird species (260 species), reptiles and fish (120 species). Wildlife enthusiast can look forward to viewing Gangetic River Dophins, Salt-Water Crocodiles, deer, wild boar, ducks, sandpipers, moths, monkeys, snakes, foxes and the ever elusive and graceful Royal Bengal Tiger. The tranquility of the dense forests and peaceful waters transports visitors into a magical wildlife kingdom. \n\n
+Karamjol and the breathtaking natural world of the Sundarban Wildlife Sanctuary await the adventurous traveler. To stand in one of the world’s biggest mangrove belts, the mysterious forests and swamp land, and be amidst the picturesque jungle of Bangladesh, is an experience that will remain forever embedded in the hearts of those who come to explore Bangladesh. \n\n
+
+4. Hiron Point\n\n
+There is number of spot in sundarban. Hiron Point is another tourist spot in Sunderban. It is called the world heritage state. Hiron Point is a graceful spot, great for spotting tigers and other spectacular and rare wildlife animals. Also known as Nilkamal, it is well-known for tiger, deer, monkey, crocodiles and many precious birds. Often they are looking out there. \n\n
+This place attracts many tourists owing to its natural beauty and connate splendor. This is a place to have a look at the rare species of wild animals and birds, to be noted in the diary of bird watchers and wildlife enthusiasts. \n\n
+Every visitors can Enjoy their time by watching this beautiful sinary of the nature. \n\n
+
+
+4.Dublar Char Island\n\n
+The Sundarban is one of the biggest single blocks of tidal halophytic mangrove forest in the world. It is located in Bangladesh. There are many tour place in there. Dublar Char Island is one of them. Dublar Char, a beautiful island known for its picturesque scenes, is famous for fishing and is a place for fishermen with abundant of fish fauna. One can enjoy the fishing here and have a first hand experience of this fun filled activity.The Island has all the natural beauty of any other places of the world renowned Islands. On the eastern side of this island, River Passur flows, while on the western side River Shibsha. In addition, this island is known for its beautiful views. \n\n
+The Island has all the natural beauty of any of the world distinguished Islands. It is an attractive island where herds of spotted deer are often seen to graze. A casual walk around the Island provides the tourist with the chance of spotting many wild animals. With water all around and with lots of fish fauna, Dublar Char offers unique experience to the enthusiastic visitors. \n\n
+5.Tin Kona Island\n\n
+Bangladesh is a beautiful Country in the world. It has many tourist spot. All spot are very attractive and popular. Sundarban is one of them. It is more beautiful place for the Tourist. The largest mangrove forest in the World (140,000 ha). The World famous Royal Bengal Tiger’s homeland and about 400 tigers live in sundarban. About 30,000 beautiful spotted deer live in sundarban. There are many Tourist Spot in Sundarban. Tin Kona Island, literally means three cornered Island, is another popular spot for wildlife spotting in Sundarbans. Tin Kona Island is well known for tiger and deer, where one can come across the real wildlife. This island has an enchanting, but wild beauty merged with wild forests and estuaries. \n\n
+"
+        android:textSize="20sp"
+        android:layout_weight="1"
+        android:textStyle="italic"
+        android:textColor="#FFFFFF"
+        android:typeface="serif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+
+    </LinearLayout>
+</ScrollView>

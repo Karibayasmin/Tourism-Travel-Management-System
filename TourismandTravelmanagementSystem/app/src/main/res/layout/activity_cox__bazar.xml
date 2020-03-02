@@ -1,0 +1,54 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#0D47A1">
+
+        <ImageView
+            android:scaleType="centerCrop"
+            android:src="@drawable/nilgiri"
+            android:id="@+id/bandarban"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    <TextView android:text="Cox’s Bazar : \n\n
+Cox’s Bazar, The Tourist Capital of Bangladesh, boasts World's Longest Sea Beach, Forested Hills on Shoreline, colourful conch shells, Old Buddhist Monasteries of Ramu and dining Fresh Sea Food at Majestic Sea Side Restaurants. Blue water of the Bay of Bengal splashing on Golden Sand Beach against a backdrop of picturesque chain of hills creates an unforgettable majestic view. \n\n
+Over many years Cox's Bazar has been an attraction to both international and domestic tourists. Opportunities of bathing and swimming in shark free warm water makes Cox’s Bazar a top tourist attraction. Besides, opportunities of lazy sunbaths on the private beaches of famous Cox’s Bazar 5 star hotels are also alluring. \n\n
+During evening Cox’s Bazar provides unique opportunity to observe the beauty of sunset behind the waves. After that tourists can flock to the markets located near the shore and in the town. These markets are a good place to shop for souvenirs’.  Typical items include conchshell showpieces, local made cigars, handwoven clothes and handicrafts from the tribal Rakhaine families. \n\n
+Visit Cox's Bazar for an Unforgettable Experience. \n\n
+Cox’s Bazar Tourist Attractions: \n\n
+There are many tourist attractions around Cox’s Bazar, which are easily accessible by Jeeps and in some cases cars. \n\n
+•	Himchari: \n\n
+Is famous for Himchari Waterfall and natural beauty. It is located about 8 km south of Cox’s Bazar. During the winter dry season, the waterfall dwindles but in the rainy season it is fabulous. Besides a beach drive to Himchari is an exotic experience. \n\n
+
+•	Inani Beach: \n\n
+A Pristine rocky beach with corals all around. It is bordered by hills and forests and is located only 32km south of Cox’s Bazar. It can also be accessed via Himchari. \n\n
+
+•	Aggmeda Khyang: \n\n
+A large elaborately planned and decorated Buddhist Monastery. It is located near the entrance to the Cox's Bazar town. It has been designed to sit on a series of large timber columns. The monastery holds a big collection of manuscripts, prayer chamber, bronze Buddha images of Burmese origin and an assembly hall. \n\n
+
+•	Ramu: \n\n
+A typical Buddhist village located 16 kilometers away from Cox's Bazar. It is accessible from the main highway leading to Chittagong. The village accomodates monasteries, khyangs and pagodas. There are images of Buddha in gold, bronze and other metals inlaid with precious stones inside the pagodas. Temple on the Baghkhali River houses relics along with a 13 feet high bronze statue of Buddha rested on a six feet high pedestal. Wood carvings here is delicate and refined. In the village weavers ply their trade in open workshops and craftsmen make handmade cigars. \n\n
+
+•	Teknaf: \n\n
+A drive to this small town called Teknaf which is about 80km from Cox’s Bazar is a memorable experience as the road goes alongside the beautiful Naf river and through forested hilly roads. Teknaf is the southernmost point of Bangladesh and is bordered by Myanmar. \n\n
+
+•	Island-Hopping: \n\n
+Hopping to Sonadia, Maheshkhali and Saint Martin's islands are certain to become unforgettable experiences for every visitor.
+" android:textSize="20sp"
+        android:layout_weight="1"
+        android:textStyle="italic"
+        android:textColor="#FFFFFF"
+        android:typeface="serif"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</ScrollView>

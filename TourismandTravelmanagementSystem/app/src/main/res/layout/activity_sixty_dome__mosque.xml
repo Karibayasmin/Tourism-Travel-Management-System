@@ -1,0 +1,46 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#9E9D24">
+
+        <ImageView
+            android:scaleType="centerCrop"
+            android:src="@drawable/domemasjid"
+            android:id="@+id/sixtydome"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:text="Sixty Dome Mosque: \n\n
+Sixty Dome Mosque (Shat Gambuj Masjid) meaning a mosque with 60 domes,  was built in 1449. Because of the mosque has 77 squade domes, usually it is called as Sixty Dome Mosque. The Mosque is located about three miles west of the present Bagerhat town of Bangladesh. There is a museum inside in the mosque area. Tourists have to pay a small entrance fee of BDT 50 to visit the mosque. The museum next to the mosque is open from 9am to 12pm and from 2pm to 5pm. It has the many pillared interior that constitutes the real attraction. Suggestive of the great Mughal palaces of the period, and even of some of the great religious buildings of Europe, the superb pillars and the light they admit and the shadows they cast make the atmosphere of sanctity and durability. The Mosque is a World Heritage Site by UNESCO. \n\n
+Shait Gumbad Mosque was built by Khan Jahan Ali, a muslim sufi saint around 1450 A.D. The Masjid is built mostly of bricks, measures 192 feet from north to south and 130 feet from east to west. The length of the mosque is equal to 160 feet, its width is slightly less – 108 feet. The walls are unusually thick and very durable light brick. The mosque has an architectural style that strongly resembles other pre-mughal mosques of Bengal. There are four huge circular towers situated at the four corners of the mosque. The towers are a little tapered towards the top, with a hall above the roof level. The upper chamber of the two west towers has four windows, while the east towers has two windows. \n\n
+
+The most spectacular and magnificent monument of Khalifatabad, stands on the eastern bank of a large water tank, locally known as Ghora dighi. It is about 7km west of Bagerhat town. Khulna-Bagerhat high way passes to the south of the mosque. This most imposing brick-built mosque is commonly known by its highly misleading name of Shat Gambuj Masjid or Sixty Dome Mosque. Actually this is roofed over with 77 squat domes including 7 chauchala or four segmented hut shaped domes in the central row. \n\n
+It is the largest mosque of medieval Bangladesh with its external dimension 49 meter long and 33 meter wide. The large prayer chamber is provided with 11 arched doorways on the east and 7 each on the north and south. The interior of the mosque is divided into 7 longitudinal aisles and 11 deep bays by 60 stones columns of which five are brick piers. Rows of endless diminishing arches spring from these pillars. These arches support the domes. Recent restoration works have covered those stone columns excepting one. \n\n
+There are ten concave mihrabs on the western wall of which the central one is of stone while the flanking 9 mihrabs are decorated with terracotta motifs. There is a small arched doorway in the western wall close to the central mihrab. The corner turrets are raised above the slightly curved parapet capped by rounded cupolas. The eastern turrets are tall and have entrances from the anterior of the mosque through staircases while the western turrets are dwarfish without staircases. The facade is relieved with usual curved cornice. Besides, over the central arched doorway there existed a small triangular pediment. After repair this pediment is not seen. \n\n
+Tomb of Khan Jahan\n\n
+The second important monument of Khalifatabad is the single domed mausoleum of Khan Jahan (Pl.23) located on the northern embankment of a large tank locally known as Thakur dighi. It is about 2km east-southeast of Sixty Dome Mosque.
+The tomb is a square building measuring 13.70 meter each side. At the base of the brick wall 5 courses of black Stones have been used. There is an arched entrance in the middle of each side of which the northern one is now closed. The corner towers are faceted at regular intervals with seven brick moldings and crowned with ribbed cupolas. The walls are 2.5 meter thick. Each wall is relieved with two multi cusped arched niches. \n\n
+The tomb accommodates a stone built sarcophagus in the middle of the floor and actual, grave underneath. The floor was richly embellished with colored glazed tiles which are now missing. \n\n
+The sarcophagus is profusely engraved with the verses from the holy Quran, Persian expressions and date (27 Zilhaz, 863 AH [24-25 October 1459 AD]) of the demise of the saint Khan-ul-Azam Ulugh Khan-i-Jahan by title. The walls of the crypt, which is now closed, are also full with inscriptions. An attempt to decipher those inscriptions may help to get the Khan Jahan’s identity and also to reconstruct the history of the region. \n\n
+On the close west of this tomb there is another stone sarcophagus known as Peer Alt Taheerer Majar who was close associate of Khan Jahan. Further west there is an identical but smaller single domed mosque. \n\n
+The tomb is enclosed by an inner and outer compound. The inner boundary wall accommodates three gateways, one in each side except north. The main gateway in the west is now closed. The outer enclosure has six entrances in it.
+"
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            android:typeface="serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</ScrollView>

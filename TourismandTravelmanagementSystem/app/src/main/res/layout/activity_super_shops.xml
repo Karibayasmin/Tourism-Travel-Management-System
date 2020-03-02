@@ -1,0 +1,316 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/shopping">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Bashundhara City Shopping Complex"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="16sp"/>
+
+            <Button
+                android:id="@+id/Bashundhara"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +880 2-9111440"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="4.4 (2,211) · Shopping Mall
+Panthapath,Open until 8:30 PM\n\n\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="22sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Almas Super Shop"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="16sp"/>
+
+            <Button
+                android:id="@+id/Almas"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +880 1712-586896"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="3.8 (45) · Supermarket
+46, Gulshan Ave,Open until 11:00 PM\n\n\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="22sp"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Meena Bazar"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="16sp"/>
+
+            <Button
+                android:id="@+id/MeenaBazar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +880 2-9139849"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="3.8 (45) · 4.1 (32) · Supermarket
+Salimullah Rd,Open until 10:00 PM\n\n\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="22sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Carrefamily"
+                android:textStyle="italic"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"
+                android:textSize="16sp"/>
+
+            <Button
+                android:id="@+id/Carrefamily"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +880 2-9139849"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="3.3 (35) · Supermarket
+Plot 1, Road-10, Block-C, Section-6
+Opposite Mirpur bangla school Begum Rokeya Avenue\n\n\n\n"
+                android:textStyle="italic"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"
+                android:textSize="22sp"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Amana Super Shop Ltd."
+                android:textStyle="italic"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"
+                android:textSize="16sp"/>
+
+            <Button
+                android:id="@+id/Amana"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +880 2-8931114"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="4.1 (10) · Supermarket
+Service Rd,Open until 10:00 PM\n\n\n\n"
+                android:textStyle="italic"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"
+                android:textSize="22sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="PriyoShop.Com"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="16sp"/>
+
+            <Button
+                android:id="@+id/PriyoShop"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +880 1717-864118"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="3.8 (11) · E-commerce Service
+39 North Road,Open until 11:00 PM\n\n\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="22sp"/>
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Agora"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="16sp"/>
+
+            <Button
+                android:id="@+id/Agora"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +880 1713-124672"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="4.1 (31) · Grocery Store,Zoo Rd,Open until 9:00 PM\n\n\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="22sp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

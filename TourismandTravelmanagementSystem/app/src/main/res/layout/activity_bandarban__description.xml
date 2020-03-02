@@ -1,0 +1,105 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#004D40">
+
+        <ImageView
+            android:scaleType="centerCrop"
+            android:src="@drawable/nilgiri"
+            android:id="@+id/bandarban"
+
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:text="Bandarban:\n\n
+Bandarban is in Chittagong division and located in southeastern Bangladesh. It is one the most attractive travel destination in Bangladesh for its adventurous characteristics and heavenly scenic beauty. This eventually gets really hard to leave if anyone visits Bandarban. The scenic beauty will undoubtedly captivate your soul. Bandarban includes the three highest peak of Bangladesh — Tahjindong (or Bijoy), Mowdok Mual (or Saka Haphong) and Keokradong. Anyone can easily hike through the jungle and hilly rivers to win any of these three god’s creations. There are so many waterfalls hidden through the hills of Bandarban would appear in your hiking. The exotic offerings such as foods, tribal handicrafts etc from the tribal people will delight your heart. Meanwhile you can easily experience the tribal culture very closely. \n\n
+Bandarban Tourist Spots: \n\n
+Boga Lake: \n\n
+ Boga Lake is the most beautiful natural lake in Bandarban, Bangladesh. It is also known as Bagakain Lake or Baga Lake. Boga lake is 18 kilometer away from Ruma Sadar Upozilla in Bandarban, Bangladesh. The area of Boga lake in Bandarban is about 15 acres. Boga lake is situated at about 3000 feet above sea level of Bangladesh. The color of water of this Boga lake is blue and very much eye catching. There are many mythological stories behind the creation of Boga lake. \n\n
+
+Buddha Dhatu Jadi: \n\n
+The Buddha Dhatu Jadi is a Theravada Buddhist temple known as the Bandarban Golden Temple. The Buddha Dhatu Jadi is located at Pulpara, 4 kilometer from Balaghata town and 10 kilometer from the remote Bandarban hill district in Bangladesh. The Bandarban Golden Temple is the largest Theravada Buddhist Temple with the second largest Buddha statue in Bangladesh. \n\n
+
+Chimbuk Hill and Tribal Villages: \n\n
+Chimbuk hill is the third highest mountain in Bangladesh. Chimbuk is one of the most familiar tourist spots in Bandarban, Bangladesh. Chimbuk hill is just 26 kilometer away from Bandarban sadar. Chimbuk hill is about 2500 feet high above sea level of Bangladesh. The road of this area is zigzag. So if a traveler rides in a jeep it will be adventurous and charming. \n\n
+
+
+
+Keokradong: \n\n
+ Keokradong is the second highest mountain of Bangladesh. Keokradong is about 4,035 ft (1,230 meters) high from the sea level of Bangladesh. It is situated at 30 kilometer away from the Ruma sadar upazilla of Bandarban, Bangladesh. This remote area is full of natural beauty. Here the travelers and nature lovers can see many small and big mountains and hills. Keokradong is covered with dense forests, birds and animals. \n\n
+
+Meghla Tourist Spot: \n\n
+Meghla Parjatan Complex is one of the most amazing tourist spots for the travelers and tourists coming from all over Bangladesh and world. Meghla is in the contiguous area of the Bandarban hill district council on the gateway of Bandarban, maintained by Bandarban district administration. \n\n
+
+Nilachal Tourist Spot: \n\n
+ There is another beautiful place to see near Meghla, which is called Nilachal, maintained by Bandarban district administration. Nilachal is known as tiger hill. The view of Nilachal is so spectacular for snapping. Nilachal is the nearest tourist spot from Bandarban town, Bangladesh. Nilachal is situated at Tigerpara. Nilachal is near about 2000 feet above the sea level and 5 kilometer away from the Bandarban town. \n\n
+
+Mirinja Parjatan: \n\n
+Mirinja tourist spot (Parjatan complex) is situated at Lama upazilla of Bandarban district in Bangladesh. Mirinja is a wonderful tourist spot in Lama, Bandarban. Mirinja is about 1500 feet high from the sea level of Bangladesh. In good weather, travelers and tourists can see the Maheskhali Island, Bay of Bengal, Matamuhuri River and Lama upazilla at a glance. \n\n
+
+Nafakhum and Remakri:  \n\n
+Nafakhum is one of the most beautiful waterfalls in Bandarban, Bangladesh and an excellent place to travel. Every traveler should have a tour plan to visit this beautiful tourism spot of Bandarban, Bangladesh at least once and then they will feel to visit that travel spot again and again. \n\n
+
+Nilgiri and Thanchi:  \n\n
+Nilgiri or Nil Giri or Neelgiri is one of the tallest peaks and beautiful tourist spots in Bandarban, Bangladesh. Nilgiri is about 3500 feet high and situated at Thanchi Thana of Bandarban district in Bangladesh. Nilgiri is about 46 km south of Bandarban on the Bandarban-Chimbuk-Thanchi road. Beside this Nilgiri spot travelers and tourists can also roam around the Mro villages. Their colorful culture and living style are surely an unexplored experience for the visitors and tourists. \n\n
+
+Prantik Lake: \n\n
+Prantik Lake is really a beautiful tourist spot in Bandarban district of Bangladesh. Prantik lake of Bandarban is surrounded by many kind of plants and trees. This amazing place – Prantik Lake will certainly attract tourists minds. Prantik Lake is an ideal place for travel. Prantik Lake located in a village named “Holudia” near the Keranihat-Bandarban Road. Prantik Lake is 14 kilometer away from Bandarban town. Volume of this Prantic Lake area is 29 acres. \n\n
+
+
+Rijuk Waterfall: \n\n
+Rijuk waterfall (Rijuk Jhorna) is located at Ruma upazilla of Bandarban district, Bangladesh. The water of Rijuk waterfall continuously falls into the river Sangu from about 300 feet high hill with beautiful sound throughout the year and this water is shiny like pearl particles in the space creating a unique beauty of nature. Rijuk waterfall is surrounded by different kind of plants and underwood. \n\n
+
+Sangu River: \n\n
+Sangu River is the complete part of the natural beauty of Bandarban, Bangladesh. Sangu river follows a northerly circuitous course in the hill tracts up to Bandarban, Bangladesh. Sangu river enters the Bandarban district from the east and flows west across the Bandarban district and finally falls into the bay of Bengal at the end of a course of 270 kilometer. Sangu river is flowing through the hills for thousands of years. \n\n
+
+Shoilo Propat: \n\n
+The waterfall named Shoilo Propat or Shoylo Propat at Milanchari, Bandarban, 4 km from the town on the road to Thanchi from Bandarban town. Shoilo propat is also an excellent site, maintained by Bangladesh Parjatan, the national tourism promotion corporation of Bangladesh. \n\n
+
+Tajingdong: \n\n
+Tajingdong, also known as “Bijoy” is the highest mountain of Bangladesh. Tajingdong is about 4300 feet (1310 meters) high from the sea level of Bangladesh. Tajingdong is situated in remakri pangsha union under Ruma upazilla of Bandarban in Bangladesh. According to local tribal language “Tajing” means “Great” and “Dong” means “Hill” so that means “Great hill”. \n\n
+
+Upabon Parjatan: \n\n
+Upabon Parjatan is another beautiful tourist spot in Bandarban at Naikhongchari, Bangladesh. Upabon Parjatan is a wonderful gift of nature. Here is an amazing lake surrounded by forest. A lot of birds are singing here and tourists will surely be amazed by looking at the big rocks and surrounding natural scenes. At Upabon Parjatan, there is a hanging bridge over the lake and it is longer than the Meghla hanging bridge of Bandarban. \n\n
+About Bandarban Hill District\n\n
+Bandarban Hill District is the remotest and least populated district in Bangladesh. The lure of the tallest peaks of Bangladesh, treks through virgin forests and chance to meet more than 15 tribes of the region up close is growing both among Bangladeshis and tourists from other countries. \n\n
+Bandarban, a 4,479 km² wide area with a population of 292,900 (2003 est.) inside Bangladesh is bordered by Cox’s Bazaar, Chittagong, Rangamati and Khagrachari. On the other side of the 129 kilometer international border lies Myanmar provinces of Chin and Arakan. \n\n
+Bandarban has only one town that approaches anything near a city – the Bandraban town. The rest of the area is divided into 7 upazilas, which are in turn divided into varying numbers of unions. Each union is a cluster of paras and villages. \n\n
+
+Bandarban\n\n
+•	Bandarban Sadar: \n\n
+Bandarban Sadar, Rajvila, Kuhalong, Sualok, Tankabati\n\n
+•	Thanchi: \n\n
+Thanchi, Bolipara, Remakree, Tindu\n\n
+•	Lama: \n\n
+Lama, Aziznagar, Fashiakhali, Gozalia, Rupasipara, Soroi\n\n
+•	Nikhongchhari: \n\n
+Nikhongchhari, Baishari, Dochari, Ghumdhum\n\n
+•	Alikadam: \n\n
+Alikadam, Choykhong\n\n
+•	Rowangchhari: \n\n
+Rowangchhari, Alekhong, Noapatang, Taracha\n\n
+•	Ruma: \n\n
+Ruma. Galengga, Pyndu, Remakree Pranksha\n\n
+Other Tourist Destinations of Bandarban, Bangladesh: \n\n
+Apart from Bandarban town and surroundings, Ruma Bazaar and Alikadam are two other destinations of Bandarban district, that can be reached by fair means, i.e. by motor-driven vehicles and are highly worth visiting. Lama Dardari Barua para. \n\n
+"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"
+            android:layout_weight="1"
+            android:textStyle="italic"
+            android:typeface="serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</ScrollView>

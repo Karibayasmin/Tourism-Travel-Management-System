@@ -1,0 +1,203 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/bus">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Green Line\n\n"
+                android:layout_weight="1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/GreenLine"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Call 02-7192300"
+                android:background="#D7CCC8"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="S Alam Service\n\n"
+                android:textStyle="italic"
+                android:layout_weight="1"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/SAlamService"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Call 01813-329394 "
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Shyamoli Paribahan\n\n"
+                android:textStyle="italic"
+                android:layout_weight="1"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/ShyamoliParibahan"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="Call 02-900331"
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hanif Enterprise\n\n"
+                android:textStyle="italic"
+                android:layout_weight="1"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/HanifEnterprise"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Call 0173-402670"
+                android:background="#CFD8DC"/>
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Shohag Paribahan\n\n"
+                android:textStyle="italic"
+                android:layout_weight="1"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/ShohagParibahan"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Call 01711-612433"
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Soudia Paribahan\n\n"
+                android:layout_weight="1"
+                android:textStyle="italic"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/SoudiaParibahan"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Call 01919-654935"
+                />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Eagle Paribahan"
+                android:textStyle="italic"
+                android:layout_weight="1"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/EagleParibahan"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Call 02-9006700"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
+
+
+

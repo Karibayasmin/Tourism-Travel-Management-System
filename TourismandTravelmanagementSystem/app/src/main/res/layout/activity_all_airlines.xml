@@ -1,0 +1,495 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/air">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Air Arabia"
+            android:textStyle="italic"
+            android:textColor="@android:color/black"
+            android:typeface="serif"
+            android:textSize="24sp"/>
+
+        <Button
+            android:id="@+id/Airarabia"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Call +8801713015354"
+            />
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address: One World Aviation Ltd, Dhaka, Bangladesh,Fax: +88028116522, Email: saeed.ahmed@airarabia.com.bd\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Air India"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/AirIndia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +88028611929"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address: Sub-Station Building (2nd Floor), Minto Road Dhaka,
+Bangladesh,Fax: +88029670591\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Air China"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/AirChina"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +88029555499"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address: 13 Dilkusha (5th Floor), Dhaka, Bangladesh,Fax: +88029562667\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Air France"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/AirFrance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +88029886634"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address: Bengal Airlift Ltd, Landmark Building,
+12-14 Gulshan North, Dhaka, Bangladesh,Fax: +88028811335, Email: baairnet@dhaka.agni.com\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Asiana Airlines"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/AirAsiana"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +88029559930"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address:-  GSA- Borak Travels Ltd, 12 Dilkusha C/A, Dhaka,
+Bangladesh,Fax: +88029563787\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Biman Bangladesh Airlines"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/AirBimanBangladesh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +88028917400"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address: Balaka Bhaban,Kurmitola, Dhaka: 1229,
+Bangladesh,Fax: +88028913005\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="United Airways (BD) Ltd"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/UnitedAirways"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +88028860248"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address: Best Aviation Limited, House: 43, Rode: 1, Block: J,
+Baridhara Dhaka, Bangladesh\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Singapore Airlines"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/Singapore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +88028811504"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address: SQ Gulshan Tower (7th Floor), 31 North Gulshan,
+Dhaka, Bangladesh,Fax: +88028811503\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Saudi Arabian Airlines"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/SaudiArabian"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +88028116856"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address: Pan Pacific Sonargaon Hotel, 107 Kazi Nazrul Islam Avenue,
+Dhaka, Bangladesh,Fax: +88028113145, Email: svslsd@dhaka.bangla.net\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Malaysia Airlines"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/Malaysia"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +88029888211"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address: MH Plot SW (I)4, 25 Gulshan Avenu 1, Dhaka, Bangladesh,Fax: +88029890478,
+Email: Silkways@silkways.net\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Kuwait Airways"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:id="@+id/Kuwait"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Call +88028833840"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Address: Gulshan Avenue, Dhaka: 1212,
+Bangladesh\n\n"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

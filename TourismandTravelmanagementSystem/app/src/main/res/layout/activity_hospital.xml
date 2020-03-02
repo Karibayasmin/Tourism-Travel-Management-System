@@ -1,0 +1,352 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#00BFA5">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+
+            <TextView
+                android:text="Bandarban"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/bandarbanEmergency"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Emergency department: +880186393449"
+                />
+
+            <Button
+                android:id="@+id/bandarbandoctors"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" (doctors on call): +8801983555687"
+                />
+
+            <Button
+                android:id="@+id/bandarbanMedicall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Medicall / Medical assistance: +880188229974 "
+                />
+
+            <Button
+                android:id="@+id/bandarbanAmbulances"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ambulances: +880177666476 "
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+
+            <TextView
+                android:text="Cox's Bazar"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/coxbazarEmergency"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Emergency department: +880176393449"
+                />
+
+            <Button
+                android:id="@+id/coxbazardoctors"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="  (doctors on call): +8801983445687"
+                />
+
+            <Button
+                android:id="@+id/coxbazarMedicall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Medicall / Medical assistance: +880176229974 "
+                />
+
+            <Button
+                android:id="@+id/coxbazarAmbulances"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Ambulances: +880177892476"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:text="Kuakata"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/kuakataEmergency"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Emergency department: +880187283449"
+                />
+
+            <Button
+                android:id="@+id/kuakatadoctors"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" (doctors on call): +880187445687"
+                />
+
+            <Button
+                android:id="@+id/kuakataMedicall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Medicall / Medical assistance: +880176223746 "
+                />
+
+            <Button
+                android:id="@+id/kuakataAmbulances"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ambulances: +88018892476"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+
+            <TextView
+                android:text="Rangamati"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/rangamatiEmergency"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Emergency department: +880187283449"
+               />
+
+            <Button
+                android:id="@+id/rangamatidoctors"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" (doctors on call): +880187445687"
+                />
+
+            <Button
+                android:id="@+id/rangamatiMedicall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Medicall / Medical assistance: +880176223746 "
+                />
+
+            <Button
+                android:id="@+id/rangamatiAmbulances"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ambulances: +88018892476"
+                />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:text="Saint Martin"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/saintmartinEmergency"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Emergency department: +880187283449"
+                />
+
+            <Button
+                android:id="@+id/saintmartindoctors"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" (doctors on call): +880187445687"
+                />
+
+            <Button
+                android:id="@+id/saintmartinMedicall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Medicall / Medical assistance: +880176223746 "
+                />
+
+            <Button
+                android:id="@+id/saintmartinAmbulances"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ambulances: +88018892476"
+                />
+
+
+        </LinearLayout>
+
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+
+            <TextView
+                android:text="Sundarban"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/sundarbanEmergency"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Emergency department: +880187283449"
+                />
+
+            <Button
+                android:id="@+id/sundarbandoctors"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="(doctors on call): +880187445687"
+                />
+
+            <Button
+                android:id="@+id/sundarbanMedicall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Medicall / Medical assistance: +880176223746 "
+                />
+
+            <Button
+                android:id="@+id/sundarbanAmbulances"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ambulances: +88018892476"
+               />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:text="Sylhet"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/sylhetEmergency"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Emergency department: +880187283449"
+                />
+
+            <Button
+                android:id="@+id/sylhetdoctors"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" (doctors on call): +880187445687"
+                />
+
+            <Button
+                android:id="@+id/sylhetMedicall"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Medicall / Medical assistance: +880176223746 "
+                />
+
+            <Button
+                android:id="@+id/sylhetAmbulances"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ambulances: +88018892476"
+                />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,252 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/lalathree">
+        <TextView
+            android:layout_width="wrap_content"
+            android:textSize="24sp"
+            android:text="Which Airlines/Bus/Train you prefer to visit this place of Bangladesh\n"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="#ffffff"
+            android:typeface="serif"/>
+
+
+        <EditText
+            android:id="@+id/etName"
+            android:hint="\nType the name"
+            android:textSize="22sp"
+            android:textColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:typeface="serif"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:textColor="#ffffff"
+            android:text="\nN.B.:All airlines/Bus/Train and there contuct number is given at the end of this page"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:typeface="serif"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textSize="24sp"
+            android:text="\nHow many tickets do you want to borrow"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="#ffffff"
+            android:typeface="serif"/>
+
+
+
+        <EditText
+            android:id="@+id/etCountryName"
+            android:textSize="22sp"
+            android:textColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:typeface="serif"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textSize="24sp"
+            android:text="\nPlease give us your contuct number which is available"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="#ffffff"
+            android:typeface="serif"/>
+
+        <EditText
+            android:id="@+id/etEmail"
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="#ffffff"
+            android:typeface="serif"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textSize="24sp"
+            android:text="\nWhich purpose do you want to visit this place"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            android:typeface="serif"/>
+
+
+        <EditText
+            android:id="@+id/etGender"
+            android:textSize="22sp"
+            android:textColor="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:typeface="serif"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textSize="24sp"
+            android:text="\nAre you Bangladeshi or not?"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            android:typeface="serif"/>
+
+
+        <EditText
+            android:id="@+id/etUsername"
+            android:textColor="#ffffff"
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:typeface="serif"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:textColor="#ffffff"
+            android:text="\nIf you are not Bangladeshi then which country you are from"
+            android:textSize="24sp"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:typeface="serif"/>
+        <EditText
+            android:id="@+id/etPassword"
+            android:hint="\nCountry name"
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@android:color/black"
+            android:typeface="serif"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="Please check again all your information because if any of information you submit wrong we won't be able to confirm your ticket\n\n"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:typeface="serif"/>
+
+        <Button
+            android:id="@+id/submit"
+            android:text="Submit"
+            android:textSize="22sp"
+            android:background="#1A237E"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="@android:color/black"
+            android:typeface="serif"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="\nDear tourist After getting confirmation message you will be able to access ticket form the below button"
+            android:textSize="18sp"
+
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            android:typeface="serif"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="\n\nDear Tourists if you are Bangladeshi then press this one to confirm your ticket"
+                android:textSize="32sp"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"/>
+            <Button
+                android:id="@+id/bangladeshitourist"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Payment option"
+                android:background="#1A237E" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="\nDear Tourists if you are from abroad then wait minimum 1hour we will contuct you for further activities\n"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="32sp"
+                android:textStyle="italic"
+                android:typeface="serif"/>
+
+        </LinearLayout>
+        <Button
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="20sp"
+            android:background="#1A237E"
+            android:textStyle="italic"
+            android:typeface="serif"
+            android:text="\nAll Airlines and their contuct number"
+            android:id="@+id/Allairlines"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#558B2F"
+                android:id="@+id/bus"
+                android:text="All Bus and their Contuct number"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#FF5722"
+                android:id="@+id/Train"
+                android:text="All Train and their Contuct number"
+                android:textStyle="italic"
+                android:textColor="@android:color/black"
+                android:typeface="serif"
+                android:textSize="24sp"/>
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

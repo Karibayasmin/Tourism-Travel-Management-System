@@ -1,0 +1,105 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/ticketconfirm">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Dear tourist did you get confirmation message?\nthen pay money exactly as we give you message how much you have to pay as per your preferable package.Othrwise ticket won't be confirm\n
+            Thank you\n\n"
+                android:textSize="22sp"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:textColor="#FFFFFF"
+                android:typeface="serif"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:textSize="20sp"
+                android:text="Dear Tourists if you are Bangladeshi then you can paid us by Bcash\n"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:textStyle="italic"
+                android:typeface="serif"/>
+            <Button
+                android:id="@+id/bcash"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\nCall *247#"
+                 />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/personalnumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="\nPersonal bcash account number 01745610308"
+                />
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="\nPlease wait for another ticket confirmation message after paid money\n"
+                android:textSize="20sp"
+                android:textColor="#FFFFFF"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:typeface="serif"/>
+
+        </LinearLayout>
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Dear tourists we are taking this responsibility to confirm your ticket.This is our personal bcash account number.If you wish to contuct us or before paid money you want to take more information about us you can call us\nThank you\n\n"
+                android:textSize="26sp"
+                android:textColor="#FFFFFF"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:typeface="serif"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="All rights reserved to Tourism and Travel management system app"
+                android:textSize="16sp"
+                android:textColor="#FFFFFF"
+                android:layout_height="wrap_content"
+                android:textStyle="italic"
+                android:typeface="serif"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

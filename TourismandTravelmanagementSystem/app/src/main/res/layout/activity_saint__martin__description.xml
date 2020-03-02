@@ -1,0 +1,58 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#01579B">
+
+        <ImageView
+            android:scaleType="centerCrop"
+            android:src="@drawable/saint"
+            android:id="@+id/saintmartin"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Saint Martin's Island: \n\n
+Saint Martin's Island is the only coral island of Bangladesh and one of the Bangladesh Eco-Tourism Destinations. This Bangladesh Marine Paradise is located in the northeast part of the Bay of Bengal, just about 9 km south off the tip of the Cox's Bazar-Teknaf peninsula and 8 km west off the northwest coast of Myanmar. It is at the mouth of the Naf River. This island forms the southernmost part of Bangladesh. Among the locals this island is known as Narikel Jinjira (Coconut Island). Saint Martin's Island is an unique location for Island getaway in Bangladesh. \n\n
+Over the last few years number of visitors to Saint Martin's Island has increased dramatically. Currently, three shipping lines run daily trips to the island. \n\n
+During high tides the island radius is about 5 km, and pinched in the middle. However during the low tides the island land mass increases significantly as the receding water exposes a significant land mass. \n\n
+Visit Saint Martin's Island for an island getaway to this still less exploited place. \n\n
+Saint Martin's Island Tourist Attractions: \n\n
+•	Saint Martin's island is rich in marine life. However, the southern tip of the island hosts more species and at some places also has some mangrove forests. Several endangered species of turtles nest on the island and many marine fish species dwells in the surrounding water. The fish population includes some newly discovered species as well. \n\n
+
+•	Saint Martin's island is abundant in corals and some is exclusive to the island itself. The surrounding coral reef of the island has an extension named Chera Dweep.  Tourists often travel to this island to go for a scuba dive or snorkelling in the Bay of Bengal. \n\n
+
+•	The nights at Saint Martin Island are calm and quiet with gentle murmurs of the coconut trees swaying with the winds coming from the bay. The moonlit night on the island provides an unearthly peaceful and majestic experience. \n\n
+
+•	Last but not least, eateries here offers BBQ dinner with fresh marine fish or lobsters. \n\n
+•	Sunrise on the east side of the island, and after a lazy day head over to the west side for sunset. Sunset Point is a rocky peninsula on the northwest corner of the island, near Saint Martin's Resort, which exists only at low tide — a popular spot if sunset and low tide coincide. \n\n
+•	Village life is slow paced — most work happens in the morning and evening, while midday is reserved for drying fish and rice and selling your coconuts. Or, more likely, sitting in the shade chewing paan. \n\n
+•  Stars are amazingly plentiful on a moonless night, due to the lack of electricity on the island. \n\n
+•	•  Rock Beach (Rocky Beach Area), Dhakinmatha, (Last point of the Island). The southern point of the Island has a millions of years old Rock formed from Coral. The area is popular as Rock Beach and can be visited on foot. A 10-15 minutes track can be explored within the area by taking permission from the local land owners to see wild life including lizard, migratory birds and unique sweet water turtles habitat. \n\n
+
+
+Getting to Saint Martins Island by bus is a two-step process. First you'll need to travel to Teknaf which is the Southern most district of Bangladesh on the very southern tip, sandwiched up against Myanmar. One can come to Teknaf by bus from Dhaka, Chittagong and Cox's Bazar. Dhaka to Teknaf bus fare is around BDT 850-900 non-A/C and BDT 1400-1700 A/C as of January, 2012. There are several bus services which depart from Fakirapool, Dhaka to Teknaf. Maximum bus starts at night and the journey is near about 10-11 hours. From Teknaf, mid-level ships run daily and take around 2-2.30 hours named Kutubdia, Keary Sindabad, Eagle-1. The fare starts from BDT 450 to BDT 2500 as of September, 2012. All the ships and cruises stars journey from Teknaf to Saint Martin around 9AM-9.30AM and return journey starts from Saint Martin to around 3PM. The important thing is, during the off-season (May-August/September)these ships do not provide services because off bad weather. The peak season is September-April. The total distance from Dhaka to the island is 510 km. \n\n
+By plane you have to reach firstly in Cox's Bazar from Dhaka/Chittagong (Inter-country) by Biman Bangladesh Airlines or with Private Airlines such as Regent Airlines, United Airways, Best Air etc. The fare from Dhaka-Cox's Bazar is around BDT 3000-4500 as of December, 2011. Cox's Bazar airport is the closest airport to Teknaf. \n\n
+After reaching Cox's Bazar by Plane, from Cox's Bazar there are several ways to travel to Teknaf. There are private cars for rental services and cost approximately BDT 100-150. There are public buses which start from Cox's Bazar to Teknaf and cost BDT 60-80. Another way would be a group rental of a mid-level micro bus or jeep to travel to Teknaf which may cost less and be a safer journey. \n\n
+
+Arriving from the port you'll walk through a strip of basic restaurants and shops, and hit a T-junction. Left will take you to the eastern beaches (the cement ends shortly before the scuba dive centre), while a right turn will take you along the main cement 'road' where most of the hotels and guesthouses are, ending at the north-west part of the island. \n\n
+At one point a left turn leads around the newly built hospital and into the centre of the island. It's an interesting walk and eventually leads out to the western beach just north of the Sea Turtle Hatchery, after a couple wrong turns. \n\n
+Flatbed cycle-rickshaws are the only transport aside from walking. There are no motorized vehicles on the island, not even motorcycles (yay!).
+"
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</ScrollView>

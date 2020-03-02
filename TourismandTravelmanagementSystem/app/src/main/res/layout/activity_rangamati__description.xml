@@ -1,0 +1,77 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#01579B">
+
+        <ImageView
+            android:src="@drawable/rangamati"
+            android:id="@+id/rangamati"
+            android:scaleType="centerCrop"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:text="Rangamati: \n\n
+Rangamati, a small town located amongst the green hills, lakes and rivers of the Chittagong Hill Tracts. This is what makes it a prime Bangladesh hill destination. It is known as the Lake City of Bangladesh as this place is located on the bank of the beautiful Kaptai Lake. It is the administrative headquarter of the Rangamati Hill District, the largest district of Bangladesh and located some 77 kilometres away from Chittagong. For long time Rangamati has been a prime Bangladesh tourist destination for its location, scenic beauty, colourful tribal people, tribal homespun textiles and ivory jewellery. \n\n
+The rich natural resources, diverse flora and fauna makes Rangamati a Bangladesh Eco-Tourism destination. The road leading to Rangamati circles and winds through hilly terrains covered with lush green forests and creates a memorable experience for years to come. A stay here provides a glimpse into the lifestyle of various tribes living there. The ethnic tribes of Rangamati are the Chakma, Marma, Tonchongya, Tripura, Murong, Bome, Khumi, Kheyang, Chak, Pankhoa, and Lusai. The mix of different races, cultures, religions and customs creates an interesting community at Rangamati. It is said that without visiting Rangamati a tourist will miss a colourful slice of Bangladesh. \n\n
+Visit Rangamati during October to February as the temperature remains cool and usually there is no rainfall, however, the beauty of Rangamati unleashes during the monsoon as the forest becomes greener, bursts with life and the rivers and waterfalls becomes replenished. \n\n
+Kaptai Lake\n\n
+Kaptai lake, beautiful blue watery lake was made by man. The size of Lake is approximately 11000 sq km. You will enjoy the natural beauty of this lake as well as boating on the lake. It is a huge lake and it has some tiny islands. Each island has different name such as “Peda Ting-Ting”, “Tuk-Tuk Echo Village”, “Chang-Pang” etc. “Peda Ting-Ting” is a tiny island and here you will find cottages to stay and enjoy moonlight night with fantastic lake surroundings. “Tuk-Tuk” is an echo park with varities of trees and plants. It is a great place for boating and cruising. \n\n
+Hanging Bridge is 335 feet long bridge across a portion of the Kaptai lake is an icon of Rangamati. Actually Rangamati is famous for this bridge.It’s really a very beautiful bridge. Every year thousands of people come here to visit this bridge and lake. \n\n
+Location : \n\n
+Kaptai,Rangamati,Chittagong\n\n
+
+How to Go \n\n
+There are many bus service available from Dhaka to Rangamati. After reaching Rangamati you can hire an auto-rickshaw to visit the Kaptai lake and Hanging bridge. \n\n
+Where to stay\n\n
+There are lots of hotel and boarding are available in Rangamati to stay and have food. The rate range of hotel is reasonable over there. \n\n
+Shuvolong Falls\n\n
+Shuvolong a place in Borokol sub district, situated about 25kilometers (11kilometers – as the crow flies) away from Rangamati. There are few waterfalls in Shuvolong zone with the largest one falling from as high as 300 feet. In the past more than a few years, this place has twisted into a tourist journey’s end due to stunning waterfalls and the neighbouring market. Shuvolong is simply easy to get to by rapidity boat or motor boats from Rangamati. \n\n
+Bangladesh is a pleasing country in the world. There are lots of tourist spot in Bangladesh. Rangamati district is one of them. Rangamati is in the Chittagong division. Shuvolong Waterfalls is a good-looking waterfall in Rangamati. It is the attractive place of Rangamati. The only obtainable path to influence at the waterfall is through water, through the lake. People visit there by boat. It is a well-known place with the tourists for the waterfall, high hills and the natural neighbouring it offers. This waterfall is just in advance the Shubholong Bazaar. Means from the waterfall, it will take from one place to another 5 minutes to reach at bazaar. So that Shuvolong is with no trouble easy to get to by speed boat or motor boats from Rangamati. \n\n
+Tribal Museum\n\n
+Located in Rangamati, the Tribal Cultural Museum in the Hill Tracts of Bangladesh offers fascinating insight into the history and cultural traditions, as well as socio-economic aspects of the different tribes in the area. Visitors can view displays of tribal dress, ornaments, musical instruments, coins and handicrafts at the museum. Paintings depicting the many facets of tribal life are also on display, as well as a collection of statues made from various metals and wood.The Chittagong Hill Tracts in south-eastern Bangladesh is divided into the Khagrachari, Rangamati and Bandarban districts and is home to a number of the country’s tribal groups. Collectively referred to as the Jumma, these tribal groups include the Marma, Tripura, Chakma, Tenchungya, Chak, Pankho, Mru, Bawm, Pankho, Murung, Lushai, Khumi and Khyang tribes. \n\n
+Shajek and Marissa Vally\n\n
+Sajek is a union at Baghaichari Upazila in Rangamati districts. It is one of the big union in Rangamati districts. Basically it is name of a river which separates Bangladesh from India. The river flows into the Karnafuli River in the Chittagong Hill Tracts. Sajek Valley is situated in the North angle of Rangamati, near the Mizoram border boundary area. The valley is 18000 ft high form sea lavel. Many small rivers flow through the hills among them Kachalon and Machalong are famous. It is one of the biggest union in Bangladesh. \n\n
+The main ethnic minorities on the valley are Chakma, Marma, Tripura, Pankua, Lushai and Sagma. Before traveling there, be alert about malaria. There is some body lotion or cream to prevent the mosquito. The place is known as hill queen for its natural beauty and roof of Rangamati. Marishsha is a name of a place near Sajek Valley. Most of the houses are made by bamboo. There is another place near Sajek, it is Kanlak, and it is famous for orange orchard. \n\n
+Most attractions of the spot are sun set, rain, morning, evening, and night and aborigine people. Tourist can buy aborigine people product from indigenous Haat. Roads are like big snake spirals mountains. Most of the people are Buddhist and people are Christian here. \n\n
+A new road has been built up to the Ruilui Para by the guidance of Bangladesh army. On the way traveler need to take permission from the army camp. Bangladesh army is very helpful and cooperative. Now mobile network is available here. \n\n
+The valley is in Rangamati but tourist can reach there from Khagrachhari too. The route is Khagrachhori – Dighinala Bazaar – Bagaihat Bazaar – Machalong  Haat – then Sajek. It is 106 km from Khagrachhari. Dighinala to Sajek is 25 km. Main transportation is Chander Gari. It costs tk.5000-tk.6000/- from Khagrachhari. It is like a four wheel jeep. Some time visitor can take some tea berak on the way at Haat. From Dighinala traveler can hire motor bike. It may cost tk 1000-tk1500/- up down. The region is extremely very backward. \n\n
+Visitor can also go to Sajek from Rangamati by engine vessel.  It takes 5-6 hours. Baghaichari is the landing station. Costing is within tk 200/-. And Baghaichari to Sajek by Chander Gari. Per person it take Tk 300/- Normally it is better to book reserve for return journey. \n\n
+ Hanging Bridge\n\n
+
+This 335feet long bridge across a portion of the Kaptai lake is an icon of Rangamati. \n\n
+How To Go\n\n
+It is just 5 kilometer away from Rangamati town. So visitor can hire private jeep or CNG auto rickshaw to go there. \n\n
+
+
+ Kaptai National Park\n\n
+This forest reserve is located in the Karnafuly and Kaptai range. According to the government statistics some 50,000 people visits the national park every year as it provides some walking trails among the lush green forest. The animal species of Kaptai National park are deer, elephants, monkeys, fishing cats and birds. The Kaptai Forest Rest house, Kaptai Mukh Forest Rest House and several picnic spots are located here. \n\n
+
+
+ Rajban Bihar Pagoda\n\n
+An internationally known Buddhist Temple, where the spiritualist principal monk of Rajban Vihara, Shrimath Sadhana Nanda Mohasthabir(Ban Vante) lives. \n\n
+Peda Ting Ting\n\n
+A small island on the Kaptai Lake, few kilometres away from Rangamati. It is mostly known for its serenity. There are a few tourist accommodation facilities here and a tiny restaurant run by the locals. It offers foods ranging from traditional to indigenous delicacies. \n\n
+Chakma Royal Palace\n\n
+This is the palace of the present Chakma King. However, it is open to public for a visit. \n\n
+DC Bungalow Area\n\n
+The District Commissioner’s Bungalow is located adjacent to the lake. There is a small light house and a shelter accessible to the public. This spot provides a nice view of the lake. \n\n
+"
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            android:typeface="serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,53 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#00BFA5">
+
+
+        <ImageView
+            android:src="@drawable/kuakataseabeach"
+            android:id="@+id/kuakata"
+            android:scaleType="centerCrop"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:text="Kuakata \n\n
+Kuakata might be one of the many under-rated tourist destinations in Bangladesh. This is place is so amazingly beautiful and close-to-nature, yet not on top of every traveler’s to-do list – mainly because of the long journey one has to go through to reach this place. Anyway, if you crave for natural beauty, wilderness, clean sandy beaches and cheap sea-side sea food then Kuakata is a must visit place for you. It will take you around 7-12 hours to reach the place from Dhaka and you  can do so by bus or launch. There are plenty of hotels and restaurants near the beach, not very fancy – but very friendly and delicious none the less. You may need to prebook your hotel in peak tourist season, but in other times it should be fine to just show up and book on the spot. \n\n
+There is almost no public transportation in Kuakata and nearby areas other than a few local buses and motor bikes. These bikes are the thing that makes Kuakata so special. Not only you can use these bikes to roam around Kuakata but also the drivers will act as your tour guide which is fantastic. They will suggest all the places nearby and will come to pick you up at your hotel. So before you make any solid plans talk to your hotel manager about arranging a bike for you. \n\n
+Try local seafood delicacies, cooked in their own different way. You will get freshly caught raw fish like coral, poa, lakkha, prawn, hilsha, crabs and lobsters in most of the restaurants near the mainroad. You will also find small barbecue stands near Lebur Chor – 5 kilometers west from the main beach where they will cook fresh fish and crab in front of you and serve you on the beach. But, before buying anything, be sure about the price. First, confirm the price, and then place the order. You will also get coconuts at a very cheap price – almost half the price of what you will be charged in Dhaka. \n\n
+Sunrise and Sunset from the Beach\n\n
+The 30 km beach of Kuakata is the only place in Bangladesh where you can enjoy both sunrise and sunset in the sea. If the sky is clear you can enjoy the panoramic beauty from any point of the beach but there are two points which are particularly famous for sunrise and sunset. Lebur chor is perfect for enjoying sunset and Kauar Chor is perfect for sunrise. Arrange for a bike to take you there in time. \n\n
+2-3 hour Bike Ride by the Beach\n\n
+If you don’t do this you will miss half the fun of Kuakata. I mentioned about the bikes at the beginning of this article. You can hop on any of these bikes (from your hotel or town center) and the driver/guide will take you to some breathtaking places along the beach. This generally covers Kauar Chor, Lebur Chor, Red Crab Beach, mangrove forest etc. But to me the 15-20 kilometer ride along the beach itself was simply the best. You can truly feel the raw beauty of the nature. If you stop at different spots then it can take around 2-4 hours to complete this ride. A bike can carry maximum 2 passengers. \n\n
+Fatra’r Chor\n\n
+Fatra’r Chor (Fatra’s Island) is a popular tourist spot near Kuakata beach. It is a part of the world’s largest mangrove forest Sundarban. Fatrar Bon or chor is a comparatively big forest in Kuakata. A traveler has to hire an engine boat from Lebur Chor to visit the Fatrar Chor. It will possibly take a one hour boat journey to go there. You should enter the forest after having the authorization from the forest camp. The wild birds, a number of monkeys, some rabbit, deer are found in this part of the mangrove forest. \n\n
+Gangamati Reserved Forest and Jhau Bon\n\n
+This is a mangrove and evergreen forest in Kuakata. It is situated on the eastern end on the beach. The best means to reach the forest is a bike or by foot, by the side of the beach. The most gorgeous place at Gangamoti Reserved Forest is the Lake. Technically, the forest is the further part of the Sundarban. The area protects the coastline of Kuakata against tidal surges. It also provides a chance to view a little mangrove jungle. There is a Jhau Bon situated near this which you can visit too. \n\n
+Keranipara, Misripara and Amkholapara Buddhist temples\n\n
+Some Buddhist temples with immense cultural heritages are there in Kuakata. There is a 100 year old Buddha Idol in Sheema Mandir, Keranipara. This temple is made from eight special metals. The statue of Gautama Buddha in Kuakata Buddhist Temple is the biggest in the South Asia. There is a well about 200 years old, might have to look at this also. Keep in mind that you would have to remove your shoes before entering the temple. You can reach this place on bike during your 2-4 hour all inclusive bike trip. \n\n
+Kuakata Eco Park\n\n
+Kuakata Eco Park is at 2.5 km east from the Kuakata zero point. The area of the park is about 13,984 hectares. About 42000 trees are found there. With two watch towers, wooden bridge, culverts, five picnic sheds, internal walkways, this is a perfect place to spend a morning or evening for the travelers. A nice looking lagoon is situated inside the area and two coastlines of this lake are linked with a bridge. A trip on a paddle boat on that lake might be a romantic experience for you. \n\n
+Lebur Chor\n\n
+Just 5 km from the main beach, Lebur chor is another tourist attraction. Locally also branded as Nembur chor or Lembur chor. The approximate area of this place is about 1000 acres. It is a small fraction of Sundarban but currently it is separated from Sundarban. It is bursting with natural gorgeousness and this overall place is completely outstanding. You can enjoy a boat ride in the jungle or beach-side BBQ here. \n\n
+Shutki Polli\n\n
+It is in the west and 4 km away from the beach. While returning from of Lebur chor, you should visit shutki polli. There are lots of fishing villages nearby and you can buy fresh fish or dried fish directly from the fishermen. You can also see the whole process of turning a fish into Shutki or dried fish.
+"
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            android:typeface="serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,43 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#0D47A1">
+
+        <ImageView
+            android:scaleType="centerCrop"
+            android:src="@drawable/lalbagh"
+            android:id="@+id/lalbagh"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Lalbagh Fort: \n\n
+The fort of Aurangabad, popularly known as the Lalbagh Fort, was built in 1678 AD by the then Viceroy of Bengal Prince Mohammad Azam, son of the Mughal Emperor Aurangazeb. The fort has a three storied structure with slender minarets at the South Gate.\n\n\n\n It has many hidden passages and a mosque of massive structure. Outstanding among the monuments of the Lalbagh Fort are the Tomb of Pari Bibi (Fairy lady) and Audience room and Hummam Khana (bathing place) of Nawab Shaista Khan, now housing a museum.\n\n\n\n The fort was the scene of bloody battle during the first war of independence (1857) when 260 spays stationed here backed by the people revolted against British forces. It is one of the great historical places of Mughal era. A small museum is there in this fort where you will find the clothes and weapons of the Mughols. Lalbagh fort is in the old town of Dhaka at Lalbagh. It is open 10 am-5 pm Sunday to Friday and Saturday is closed. \n\n
+The capital city Dhaka predominantly was a city of the Mughals. In hundred years of their vigorous rule successive Governors and princely Viceroys who ruled the province, adorned it with many noble monuments in the shape of magnificent places, mosques, tombs, fortifications and 'Katras' often surrounded with beautifully laid out gardens and pavilions. Among these, few have survived the ravages of time, aggressive tropical climate of the land and vandal hands of  man.
+But the finest specimen of this period is the Aurangabad Fort [commonly known as Lalbagh Fort], which indeed represents the unfulfilled dream of a Mughal Prince.\n\n\n\n It occupies the southwestern part of the old city, overlooking the Buriganga on whose northern bank it stands as a silent sentinel of the old city. Rectangular in plan, it encloses an area of 1082' by 800' and in addition to its graceful lofty gateways on southeast and northeast corners and a subsidiary small unpretentious gateway on north, it also contains within its fortified perimeter a number of splendid monuments, surrounded by attractive garden. \n\n\n\nThese are a small 3-domed mosque, the mausoleum of Bibi Pari the reputed daughter of Nawab Shaista Khan and the Hammam and Audience Hall of the Governor. The main purpose of this fort was to provide a defensive enclosure of the palatial edifices of the interior and as such was a type of palace-fortress rather than a siege fort. \n\n
+For long the fort was considered to be a combination of three buildings (the mosque, the tomb of Bibi Pari and the Diwan-i-Aam), with two gateways and a portion of the partly damaged fortification wall. Recent excavations carried out by the Department of Archaeology of Bangladesh have revealed the existence of other structures. \n\n
+The southern fortification wall has a huge bastion in the southwestern corner. On the north of the south fortification wall were the utility buildings, stable, administration block, and its western part accommodated a beautiful roof-garden with arrangements for fountains and a water reservoir. The residential part was located on the east of the west fortification wall, mainly to the southwest of the mosque. \n\n
+The fortification wall on the south had five bastions at regular intervals two stories in height, and the western wall had two bastions; the biggest one is near the main southern gate. The bastions had an underground tunnel. \n\n
+The central area of the fort is occupied by three buildings - the Diwan-i-Aam and the hammm on its east, the Mosque on the west and the Tomb of Pari Bibi in between the two - in one line, but not at an equal distance. A water channel with fountains at regular intervals connects the three buildings from east to west and north to south. \n\n
+Tomb of Bibi Pari\n\n
+The tomb of Bibi Pari, the daughter of Shaista Khan, is in the middle of the complex. There is a central square room. It contains the remains of Bibi Pari covered by a false octagonal dome and wrapped by brass plate. The entire inner wall is covered with white marble. Eight rooms surround the central one. There is another small grave in the southeastern corner room.
+"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            android:typeface="serif"
+            android:textSize="24sp"/>
+
+    </LinearLayout>
+</ScrollView>
+

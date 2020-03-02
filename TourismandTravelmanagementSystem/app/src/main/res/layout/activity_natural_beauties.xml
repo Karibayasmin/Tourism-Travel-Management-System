@@ -1,0 +1,294 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="Sundarban"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="Saint Martin's Island"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+
+
+            <ImageView
+                android:src="@drawable/sundarbanbig"
+                android:id="@+id/sundarban"
+                android:scaleType="centerCrop"
+                android:layout_weight="0.1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="100px"
+                android:layout_height="200px" />
+
+
+            <ImageView
+                android:scaleType="centerCrop"
+                android:src="@drawable/saint"
+                android:id="@+id/saintmartin"
+                android:layout_weight="0.1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="100px"
+                android:layout_height="200px" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="Sylhet"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Sixty Dome Mosque"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <ImageView
+                android:src="@drawable/sylhet"
+                android:id="@+id/Sylhet"
+                android:scaleType="centerCrop"
+                android:layout_weight="0.1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="100px"
+                android:layout_height="200px" />
+
+            <ImageView
+                android:scaleType="centerCrop"
+                android:src="@drawable/domemasjid"
+                android:id="@+id/sixtydome"
+                android:layout_weight="0.1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="100px"
+                android:layout_height="200px" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="Kuakata"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Bandarban"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <ImageView
+                android:src="@drawable/kuakataseabeach"
+                android:id="@+id/kuakata"
+                android:scaleType="centerCrop"
+                android:layout_weight="0.1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="100px"
+                android:layout_height="200px" />
+
+            <ImageView
+                android:scaleType="centerCrop"
+                android:src="@drawable/nilgiri"
+                android:id="@+id/bandarban"
+                android:layout_weight="0.1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="100px"
+                android:layout_height="200px" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <TextView
+                android:text="Rangamati"
+                android:textSize="20sp"
+                android:layout_weight="1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Cox's Bazar"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <ImageView
+                android:src="@drawable/rangamati"
+                android:id="@+id/rangamati"
+                android:scaleType="centerCrop"
+                android:layout_weight="0.1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="100px"
+                android:layout_height="200px" />
+
+            <ImageView
+                android:scaleType="centerCrop"
+                android:src="@drawable/coxsbazar"
+                android:id="@+id/coxbazar"
+                android:layout_weight="0.1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="100px"
+                android:layout_height="200px" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+
+            <TextView
+                android:text="Bogra"
+                android:textSize="20sp"
+                android:layout_weight="0.9"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:text="Lalbagh Fort"
+                android:textSize="20sp"
+                android:layout_weight="0.01"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:scaleType="centerCrop"
+                android:src="@drawable/bogra"
+                android:id="@+id/bogra"
+                android:layout_weight="0.1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="100px"
+                android:layout_height="200px" />
+
+
+            <ImageView
+                android:scaleType="centerCrop"
+                android:src="@drawable/lalbagh"
+                android:id="@+id/lalbagh"
+                android:layout_weight="0.1"
+                android:textStyle="italic"
+                android:textColor="#000000"
+                android:typeface="serif"
+                android:layout_width="100px"
+                android:layout_height="200px" />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</ScrollView>

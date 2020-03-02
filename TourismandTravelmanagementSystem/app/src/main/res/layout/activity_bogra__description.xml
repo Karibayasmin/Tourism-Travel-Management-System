@@ -1,0 +1,61 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#1A237E">
+
+        <ImageView
+            android:scaleType="centerCrop"
+            android:src="@drawable/bogra"
+            android:id="@+id/bogra"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:text="Bogra\n\n
+Bogra is an ancient district and the gateway to entrance in the northern part of Bangladesh. In the primitive history of mythology, Bogra has occupied an important role. The previous name of the region was “Pundabardhan”. The ancient capital of Pundra dynasty named Pundrabardhan is the current Bogra. During the 4Th to 12Th century the administrative centre point of the ancient dynasties of Maurja, Gupta, Paul, Sen etc were in the region. Bogra came under the Muslim rule when Ikhtiar Uddin Muhammad Bakhtiyar Khilji conquered Nadia in 1204. During 1279- 1282 AD, Sultan Nasiruddin Bagra Khan, the second son of Sultan Ghiyasuddin Balban who was the emperor of Delhi became the ruler of the region. Bogra was named after him. The anti British movement, Fakir-Sannyasi movement, the Indigo Rebellion etc are the remarkable chapters of the region. During the British East India Company period, Bogra district was established containing 9 police stations in 1821. After the liberation of Bangladesh, Bogra district was divided into two districts named Bogra and Joypurhat in 1983. \n\n
+Before visiting Bogra, you should have knowledge about the tourist attractions of this district. Have a look: \n\n
+
+1. Mahasthangarh\n
+2. Famous Adam Dighi\n
+3. Saudia City Park\n
+4. Baba Adam Mazar\n
+5. Zogir Bhaban Temple\n
+6. Kahalu Panch Pir Mazar\n
+7. Sariakandi Water Port\n
+8. Babur Pukur Mass Graveyard \n
+9. Dupchachia Jaipir Mazar\n
+10. Santahar Sailo\n
+11. Nandigram Dewan Khanka Mazar\n
+12. Behula Lakhsmindar Gokul Math\n
+13. Curd of Bogra\n
+14. Vasu Bihar\n
+15. Sherpur Kherua Mosque\n
+16. Korotoa River\n
+17. Historical Poradah Fair \n\n
+
+Bogra is famous for its history and tradition. Visit the tourist attractions of Bogra and enrich your historical knowledge about Bangladesh. \n\n
+
+
+Bogra has a 5 star hotel, and its name is 'Naz Garden', and also its quite expensive. Also you can stay at the Motel of 'Bangladesh Parjatan Corporation', its room fare is around 900-1100 for two person. But I have stayed at the hotel 'Red Chillies' and it was a quality hotel from the town. It was a 'three beds at two rooms' and both the rooms having Air cooler. It was cost only 1100 per night. The room was neat and clean, and the service of the hotel is excellent. Also they have the breakfast is as compliment. \n\n
+
+Bogra has the both train and bus service available for your. You can ride on any train of North Bengal from dhaka. For bus, the Hanif and the Shayamoly is the best available bus service. The bus fair is from 250-300 taka. It will take around 4-5 hours to reach at the town from dhaka city. \n\n
+"
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:textStyle="italic"
+            android:textColor="#FFFFFF"
+            android:typeface="serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+</ScrollView>

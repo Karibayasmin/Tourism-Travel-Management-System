@@ -1,0 +1,169 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#AED581">
+
+        <ImageView
+            android:src="@drawable/sylhet"
+            android:id="@+id/Sylhet"
+            android:scaleType="centerCrop"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TextView
+            android:text="About Sylhet: \n\n
+Sitting in the midst of Jaintia and Khasi mountain ranges on the north and Tripura ranges on the south is the blessed territory of Greater Sylhet, which is a valley washed by rivers flowing from those ranges and has been famous for its legendary landscapes and distinctive cultural features since prehistoric times. The natural beauty of Sylhet has always captivated many including the divine Arjun from ancient Mahabharata, famous Chinese traveler Huansung in the seventh century and the globally celebrated Ibn Batuta in the thirteenth century. \n\n
+
+In addition to being the birthplace of Lord Sri Chaitanya, one of the most prominent Hindu avatars, Syllhet has been recognized as one of the key centres in the preaching of Islam in the Indian subcontinent thanks to the efforts made by Hazrat Shah Jalal (R) and his 360 holy companions. Notwithstanding a Bengali majority, the culture of Sylhet has been enriched by a diverse range of indigenous communities including the Khasis, Monipuris, Garos, Tripuras and Hajong. \n\n
+
+Modern Sylhet, which is a north-eastern administrative division of Bangladesh comprising the districts of Sylhet, Sunamganj, Moulvibazar and Habiganj, boasts of a total of 138 tea gardens that have deservedly earned it the reputation of an essentially green valley. Here in this division is the second largest reserved forest in Bangladesh, namely Rema-Kalenga, besides famous national gardens like Lauachora, \n\nSatchori and Khadimnagar. What’s more, Ratargul, the one and only swamp forest in the country, is not too far away from Sylhet city. At the foot of Jaintia and Khasi mountains on the northeast lie top tourist attractions like Lovachora, Lalakhal, Jaflong, Pangthumai, Bichanakandi and Bhulaganj. In the rainy season, green mountains camouflaged by white clouds and cascading fountains together with the tides of mountainous rivers like Piyain, Lova, Sari and Surma engender a charm that allures tourists and the locals alike. The large haors or swamplands on the northwest, especially the Tangoar Haor, along with their diverse flora and fauna, attract tourists in both winter and rainy season. \n\n
+
+In view of the mountains, forests, rivers and haors, and the diversity of its population, history and culture, Sylhet is one of the top tourist attractions in South Asia. \n\n
+1.	BISNAKHANDI:\n\n
+ Bisnakandi is a village situated in Rustompur Union under Guainghat Upazilla. This is where many layers of the Khasi mountain meet at a single point from both sides. Flowing from above is a high fall. Adding to its charm are dark clouds hugging the mountain in the rainy season. And flowing underneath towards Bholaganj is a branch of the Piyain. Along the stream flowing from high up in the mountain come huge boulders that are deposited and mined in Bisnakandi.\n\n
+Much like Jaflong, Bisnakandi is mostly a quarry. Winter is not a suitable time to visit Bisnakandi due to mechanised mining and stone-laden boats and lorries. The absence of such nuisance makes the rainy season the perfect time to visit the beautiful Bisnakandi that coalesces the charms of high mountains, sinuous rivers, graceful falls and dancing clouds.\n\n
+
+
+
+
+2.	RATARGUL\n\n
+
+Ratargul is the only freshwater swamp forest in Bangladesh. Despite its existence over a vast stretch of swampland in the not too distant past, the swamp forest now occupies an area of only two square kilometres. A dense forest comprising mostly native hijol and koroch trees, Ratargul offers a sanctuary for different species of birds, monkeys, snakes and other reptiles.\n\n
+
+Ratargul is in close proximity of three rivers. Flowing respectively from the south and the east, the Chenger Khal and the Kafna meet near Ratargul and head north towards Guainghat under the nomenclature Guain. Once upon a time, the swamp forest occupied the banks of all these rivers. The water of these rivers makes its way into the forest and leaves it marooned under 15 to 20 feet water in the rainy season. With the bottom half of the dense forest covered under water and the top half visible with its multitudes of shades falling on crystal-clear water underneath, Ratargul makes for a sight that can soothe even the most uninterested of eyes.\n\n
+
+The best time to visit Ratargul Swamp Forest is early in the morning or early in the evening in the rainy season. That’s when one would be enthralled by the existence of the local fauna including different species of birds and monkeys. As the water recedes with the departure of the rainy season it becomes muddy. And in winter it is possible to roam about the forest on foot. \n\n
+
+Tourists can also bundle Lalakhal/Jaflong/ Pangthumai / Bisnakandhi with Ratargul on the same day.\n\n
+
+3. LALAKHAL\n\n
+Lalakhal,which is another top tourist attraction in Jaintapur Upazilla, is covered with hills, natural forests, tea gardens, and rivers under the Jainta Hill which comprises part of the Meghalaya Ranges of India. Flowing from the Indian part, the river Myntdu enters Lalakhal as the Saree and meets the river Guaiyan after passing Sarighat. Over a stretch of nearly 12 km of the river from Lalakhal to Sarighat, the colour of the water stays transparent green in winter (as well as in other seasons when it does not rain) due to the minerals flowing with water and the sandy river bed.\n\n
+
+At the eastern bank of river Saree, there is the ‘Lalakhal Tea Garden’. \n\n
+
+A tourist can experience green water river, Range of mountain and Tea Garden- at once in Lalakhal.\n
+Tourists usually travel to Sarighat, which is 42 km away from Sylhet city centre, by road and then hire a boat to reach Lalakhal. The one-and-a-quarter hour (mechanised-) boat ride over this crystal green water with lush green hills on both sides of the river is a soothing sight for any nature lovers. \n\n
+
+There is a boat station in Sarighat operated by Nazimgarh Resort. Different types of mechanised boats can be hired from there to travel to Lalakhal.\n\n
+
+4. PANTHUMAI\n\n
+Panthumai – a village from West Jaflong Union under Guainghat Upazilla – is another tourism hub in Sylhet. The village, which is very near to the east Khasia hill of the Meghalaya ranges, boasts of an eye-catching fall popularly known as Borhill Fall. Though the main fall is geographically located in the Indian territory, people can enjoy its enormous splendour head-on. Flowing from the Borhill Fall is a branch of the river Piyain that heads west and leads to Bisnakandi, another major tourist spot. \n\n
+In addition to the splendid fall, the Guainghat-Pangthumai Road itself is a sight for the sore eye. As one heads east, the enormous mountain ranges appear to come closer and turn from blue to green gradually. And the clouds and the falls playing hide and seek are sure to fill one with awe. The best possible time to visit Pangthumai is between April and mid-October.\n\n
+5. LOVACHORA\n\n
+Lovachora is a bordering area from Kanaighat Upazilla in the eastern part of Sylhet district, which is somewhat fortified from northeast to northwest by the Meghalayan ranges. It is essentially a quarry where stones and boulders are mined, besides an age-old tea garden.\n\n
+Visit to Lovachora involves with a boat journey from Kanaighat Sodor. As the boat moves east, it will soon reach the confluence of three rivers. Flowing respectively from the south and north, the Borak and the Lova meet at one point, assume the name Surma and flow west towards Sylhet city. \n\n
+
+The shades of far-flung hills falling on the crystal clear streams of the Lova make for a heavenly sight. The Lovachora Tea Garden is spread over a wide area from the river bank to the slopes of the hills. Still preserved in the garden is a tea factory ravaged in the War of Liberation in 1971. Together with an antique cottage, it is a must-see for visitors. The hilltop cottage is popularly known as Fergusson Bungalow, named after the Fergusson family who set up the tea garden.\n\n
+
+What’s more, subject to the permission from the border patrol force BGB, tourists can go to the source of the Lova and see the hanging bridge which connects two hills on the other side of the border. \n\n\n\n
+
+
+6. JAFLONG:\n\n
+Despite the loss of its former splendour due to unrestricted mining and crushing of stones, Jaflong is still a ‘must-see’ destination for tourists visiting Sylhet. Flowing from the north Khasi mountains, the river Dauki enters Bangladesh under the name ‘Piyain’, along the bank of which lies the spectacular Jaflong. About 62 km north-east from Sylhet city, Jaflong is in the East Jaflong Union under Guainghat Upazilla. Visitors can hire boats to go to the Zero Point and see the beautiful hanging bridge over the Dauki. Just across the river on the western side are the villages Sangrampunji and Nakshiapunji, which are accessible through ferries or rented boats. Just beside Nakshiapunji is Jaflong Tea Garden which is a top tourist attraction. \n\n
+On the way to Jaflong visitors usually take a recess at Tamabil, which is about 7 kilometres away from Jaflong. It is mainly a land custom and immigration check post, behind which is a war cemetery, where martyred freedom fighters were buried in 1971, along the Bangladesh-India border. \n\n
+
+On the way to Tamabil is Jaintapur Upazilla Sadar where tourists usually stop for a while to see the ruins of an ancient royal palace. It was not until 1830 that the independent province of Jaintiapur was invaded and brought under the British empire. Some megalithic monuments still stand testimony to the rich past of the Khasi tribe. Not far from the Upazilla Council is the Citrus Research Centre boasting of gardens with local vegetation such as tezpata, sathkora and many other fruits. Adding to the beauty of this research centre is a plethora of cascading waterfalls flowing from the Khasi mountains of India. Situated between Jaintapur and Tamabil is Sreepur which is a popular picnic spot. Travelling through Jaintapur to Tamabil in the monsoon is once-in-a-lifetime experience. Lush green tall Khasi mountains stand upright beside the road. The stunning beauty of white clouds and gushing waterfalls flowing from the green mountains fascinates locals and tourists alike.\n\n\n\n
+
+Though tourists come in large numbers in winter, one has to visit Jaflong in the rainy season to see the real beauty of the falls cascading from lush green mountains. As Sylhet witnesses an extended rainy season the perfect time to visit Jalfong is between April and October.\n\n
+7. Sreemongol:\n\n
+Despite being an Upazilla – a small administrative unit – under Moulvibazar district in Sylhet, Sreemongol has long been credited as a top tourist attraction having earned its recognition as a town as early as the beginning of the19th century. Even though the first ever tea garden in Sylhet – Malnichara – was established near Sylhet city in 1854, large tea estates eventually found their niche in Sreemongol town and the surrounding hills and mountains. The only tea research institute in Bangladesh – BTRI – which is a popular tourist destination is also situated in this town. Easily accessible from Dhaka by road or train, Sreemongol has a lot to offer for tourists. Of the 138 tea gardens in Greater Sylhet, 38 are situated in Sreemongol, and this number would be no fewer than 60 when added to gardens in the surrounding areas.\n\n\n\n
+
+Anyone travelling in and around Sreemongol is sure to be greeted by lush green tea gardens that stretch over miles and miles of hilly areas, not to speak of the chirping birds and shading trees besides the pineapple and lemon gardens. \n\n
+
+Just two kilometres away from the town, BTRI is easily accessible by rickshaw or CNG-run auto-rickshaw. With permission one can enter the facility and be fascinated by splendid flower gardens, age-old tea plants, a tea factory, a testing lab and many more. \n\n
+Anyone travelling in and around Sreemongol is sure to be greeted by lush green tea gardens that stretch over miles and miles of hilly areas, not to speak of the chirping birds and shading trees besides the pineapple and lemon gardens. \n
+Around sreemongol town there are a number of natural lakes. Just a ten-minute rickshaw ride on the College Road takes one to Varaura Lake, which is surrounded by lush green tea gardens. Rajghat Lake is a bit far from the town. For a 30-minute drive either Kalighat Road or Sindurkhan Road may be taken from Sreemongol town. Moreover, about 10 kilometres east of Sreemongol town is the legendary Madhabpur Lake inside Patrakhola Tea Estate. Water lilies of diverse colours in the lake, pedestrian paths along the bank, as well as the tweeting of numerous birds in winter make it a place worth visiting. \n\n\n
+
+Besides tea gardens, hills, forests and lakes, Sreemongol has also been enriched by the beauty of beels and haors (i.e. swamplands). With an area of 600 square kilometres, Baikka Beel is situated there. On the east of Hayeel Haor is Baikka Beel comprising 100 hectares of swampland. Following a governmental decision, this swampland has been conserved as a refuge for local fish since 2003.\n\n
+
+In winter this swampland is inhabited by migratory as well as local birds. In addition to the chirping of diverse species of birds, the beauty of different flowers including water lilies enchant tourists. An observation tower has been built there for the convenience of tourist. \n\n
+
+Although most tourists visit Baikka Beel during winter, this swampland assumes an unparalleled beauty in the rainy season.\n\n\n\n
+
+8. TANGOAR HAOR:\n\n
+At the foot of the Meghalaya ranges in the middle of Tahirpur and Dharmapasha Upazilla under Sunamgonj district in north-east Sylhet is a vast swampland popularly known as Tangoar Haor that spans over an area of nearly 100 square kilometres. Cascading from the Meghalaya about 30 waterfalls flow into this large water body engendering a charm that is truly rare. In 2000, it was internationally recognised as a Ramseur site. After the Sundarbans, it is the second Ramseur site in Bangladesh. Prior to that, in 1999, the government of Bangladesh earmarked Tangoar Haor as an ecologically critical area. \n\n\n\n
+Tangoar Haor, which is a crucial hub for biodiversity, is home to a diverse range of birds. In winter, numerous migratory birds join the local birds giving rise to an eye-soothing abundance of fauna. \n\n\n\n
+
+
+According to Professor Ali Reza Khan, Tangoar Haor is inhabited by a total of 250 species of birds, 140 species of fish, more than 12 species of frogs, over 150 species of reptiles and over 1,000 invertebrates. \n\n
+
+Tangoar Haor is worth visiting in winter (December to February) when tourists would be greeted by thousands of local and migratory species of birds, as well as in the rainy season (June to August) when bustling waves together with incessant rains and Meghalayan clouds create a scene that charms all and sundry.\n\n\n\n
+
+9. JADUKATA\n\n
+Bangladesh is crisscrossed by rivers, and beautiful rivers are always an attraction for tourists. The Jadukata – one of the most beautiful rivers in Bangladesh – is situated in Laurergorh under Tahirpur Upazilla in Sunamgonj District. Previously called the Renuka, this river flows from the Meghalaya ranges. The shrine of Hazrat Shah Arefin (R) is situated beside the river. Spectacularly visible behind the shrine (in the rainy season) is a waterfall. On the other side of the river is a beautiful hill popularly known as Bariker Tilla, behind which there is a church. Beside the church is a narrow westward road that leads to the village of the Garo indigenous community. Past the Garo village is the Borochora Stone Quarry and Takerghat.\n\n
+
+10. DOLURA:\n\n
+Kissed by Meghalayan ranges, Dolura is just past the village Narayontola – where indigenous people live. The high hills and the river Cholti flowing from one side together with its sandy banks and crystal clear water attract tourists. The martyrs’ memorial and the cemetery where 48 martyred freedom fighters of 1971 are resting in peace are not to be missed.\n\n
+
+To visit Dolura, one has to travel by boat on the river Surma to go to Haluarghat, from where CNG and battery-operated auto-rickshaws are available. It takes 30 to 45 minutes to reach there.\n\n
+
+11. BHOLAGONJ:\n\n
+Bholagonj, the largest stone quarry in Bangladesh, is 33 km away to the north from Sylhet city. Flowing respectively from the Khasi hill in the north and Dauki in the east, the rivers Dholai and the Piyain meet at Companigonj Upazilla Sadar, which is 27 km away from Sylhet city on the Salutikor-Bholagonj Road. Just six kilometres from there is Bholagonj— a place that boasts of rows of hills, rivers, falls and quarries. \n\n
+The Meghalayan clouds, unremitting flow of waterfalls and ceaseless streams of rivers in the rainy season as well as the sandy shores of the Dholai that appear right after the rainy season are more than enough to mesmerize tourists. \n\n\n\n
+
+
+As a revenue collector of the East India Company, Robert Lindsay came to Sylhet in 1778 after the British invaded the area in 1765. It was while working there for long 12 years that he initiated the trading of limestone, which is used as a raw material in the production of cement. Collected from the hills situated between Bholagonj in Bangladesh and Cherapunji in India, limestone was brought to Chatok, from where it was transported to Kolkata through the Surma. The profit from the limestone business enabled Lindsay to buy huge estates in Scotland, thereby earning him the prestigious titles Sir and Lord. Lindsay’s autobiography includes a lucid description of the fascinating beauty of the then Padhua – the present-day Bholagonj. \n\n
+
+The illustrious charm of Bholagonj as portrayed by Lindsay is no more to be found, due mainly to the uncontrolled quarrying of stones and the nuisance created by stone crushing machines over the last few years. Morever, the frequent movement of stone-laden lorries has left the Sylhet-Bholagonj Road in a sorry state. Nevertheless, the Meghalayan clouds, unremitting flow of waterfalls and ceaseless streams of rivers in the rainy season as well as the sandy shores of the Dholai that appear right after the rainy season are more than enough to mesmerize tourists. \n\n
+
+Tourists who love walking can set off at Bholagonj and move eastwards past Doyar Bazaar, Mayar Bazaar, Uthma, Turong, Upur, Domdoma and Bitthorgul before reaching Bisnakandi. It will take about four hours to cover a distance of about 12 km, and on the way back tourists can travel to Sylhet city by road.\n\n\n\n
+
+12. LAWACHERA:\n\n
+On the Vanugach-Komalganj Road about seven kilometres from Sreemongol town is the entry to Lauachora National Garden. It is an evergreen rainforest with excessive precipitation. Tall trees with their lofty branches and soaring foliage make for a unique cover for the forest on a sunny day. Lauachora is one of the seven safari parks and 10 national gardens in Bangladesh. An area of 1,250 hectares from the 2,740-hectare West Vanugach Reserve Forest was declared a national garden in 1996. \n\n
+This forest is a sanctuary for rare species of plants and animals that include endangered species of hoolok gibbon, phayre’s langur, as well as a wide variety of apes, cats and snakes including pythons, in addition to parrots, magpies and many other birds. \n\n
+Even though it is not very large in size, this forest is a sanctuary for rare species of plants and animals that include endangered species of hoolok gibbon, phayre’s langur, as well as a wide variety of apes, cats and snakes including pythons, in addition to parrots, magpies and many other birds.\n\n\n\n
+
+13. REMA-KALENGA RESERVE FOREST:\n\n
+Rema Kalenga is the largest natural forest after the Sundarbans in Bangladesh. A sanctuary for wild animals, this dry forest has been declared as ‘Reserve Forest’ by the government. Though Rema and Kalenga are two different forests, they are closely connected. \n\n
+Besides the deep forest and wild animals, tourists will be greeted by indigenous communities such as Tripura, Munda, and Oraw who have been living there for ages. \n\n
+
+
+Besides the deep forest and wild animals, tourists will be greeted by indigenous communities such as Tripura, Munda, and Oraw who have been living there for ages. \n\n
+
+A watch tower and a natural lake are the added attractions at Kalenga besides the grave of Bir Uttham Abdul Mannan who embraced martyrdom while fighting in the Liberation War. \n\n
+
+Rema-Kalenga Reserve Forest is extremely popular with animal lovers as well. Anyone visiting this forest may encounter various species of apes, squirrels, deer, tigers, elephants, wild dogs and pigs besides a host of birds including parrots, magpies, owls, kingfishers, eagles and sea gulls.\n\n\n\n
+
+
+
+
+14. KHADIMNAGAR RAINFOREST:\n\n
+About 10 kilometres from Sylhet city on the Sylhet-Jaflong Highway past the Shrine of Shah Paran is Khadimnagar Intersection. A left turn from there leads to Khadimnagar Tea Garden. Waiting to greet tourists with its absorbing lush green warmth just about five kilometres from the Highway through the tea gardens is Khadimnagar Rainforest comprising1,673 acres of hills and natural forest surrounded by six tea gardens — Choragang and Habibnagar on the East, Borjan and Kalagul on the West, Gulni on the North, and Khadimnagar on the South. Officially recognised as a national forest, Khadimnagar Rainforest operates with support from USAID. \n\n
+The forest is quite popular with trekkers with a 45-minute trail and a two-hour one. \n\n\n\n
+
+
+The rainforest boasts of diverse flora and fauna. There are 217 species of plants and trees. Most notable among them are teakwood (tectona grandis) and mahogany (swietenia mahagon) as well as different types of bamboos and canes. Among the animals and birds are different species of bears, wild cats, apes, pythons, parakeets and doves. \n\n
+
+The forest is quite popular with trekkers with a 45-minute trail and a two-hour one. There is a map of the trails in front of the local forest office. Besides, trekkers can also hire a local guide.\n\n
+
+The northward road from the rainforest leads to the Airport-Haripur Road, from where it is easy to go to Ratargul Swamp Forest. Anyone who intends to explore Sylhet in a day can use this road and visit tea gardens, rainforests as well as swamp forests on the way. \n\n
+
+Even though most parts of this road are brick-laid one can drive there. However, it is a good idea to hire a CNG-run auto-rickshaw from Khadimnagar Intersection on a rainy day.\n\n\n\n
+
+15. SATHCHORI NATIONAL FOREST:\n\n
+Sathchori National ForestSathchori National Forest is situated in Roghunandon Hill at Chunnarughat Upazilla under Habiganj District in Sylhet Division. Previously known as Roghunandon Reserve Forest, this national forest partitions Sathchori Tea Garden and Chaklapunji Tea Garden. There are some other tea gardens near the forest which was actually named after seven choras (creeks) flowing from the hills. \n\n
+There are three trails for trekking. One takes 30 minutes, another one hour and the other three hours to complete trekking. \n\n\n\n
+
+
+Sathchori National Forest is mainly an evergreen woodland boasting of almost 200 types of trees including teakwood (tectona grandis), mahogany (swietenia mahagoni) chrysanthemum and bamboo. In addition to a variety of species of apes and deer, 24 species of mammals, 18 species of reptiles and 150 types of birds are found there. \n\n
+
+There are three trails for trekking. One takes 30 minutes, another one hour and the other three hours to complete trekking. The 30-minute trail takes one to the village of the Tripura indigenous community. The three-hour trail, which is six kilometres long, is ideal for anyone interested in birds and wild animals as well as agar wood (raw material for incense and perfume). There are some well trained guides to take tourists through the forest.
+"
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:textStyle="italic"
+            android:textColor="#000000"
+            android:typeface="serif"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</ScrollView>
